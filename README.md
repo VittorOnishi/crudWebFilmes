@@ -1,2 +1,2 @@
 # crudWebFilmes
-Crud para gerenciamento de filmes, usando Java e Spring
+Crud web para gerenciamento de filmes, usando Java e Spring
